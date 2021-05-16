@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=FredericChang&theme=juicyfresh)](https://github.com/FredericChang/github-profile-trophy)
+[![FredericChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredericChang)](https://github.com/FredericChang/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=FredericChang&theme=juicyfresh
+
 <!--
 **FredericChang/FredericChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
