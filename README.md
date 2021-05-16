@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=FredericChang&theme=juicyfresh)](https://github.com/FredericChang/github-profile-trophy)
 [![FredericChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredericChang)](https://github.com/FredericChang/github-readme-stats)
-[![FredericChang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FredericChang)](https://github.com/FredericChang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericChang&layout=compact)](https://github.com/FredericChang/github-readme-stats)
+
 
 
 <!--
