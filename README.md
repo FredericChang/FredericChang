@@ -3,7 +3,7 @@
 [![FredericChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredericChang)](https://github.com/FredericChang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericChang&layout=compact)](https://github.com/FredericChang/github-readme-stats)
 
-
+![snake gif](https://github.com/FredericChang/FredericChang/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **FredericChang/FredericChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
