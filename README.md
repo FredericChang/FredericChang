@@ -17,3 +17,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🌱 Frederic
+
+## 🏆 GitHub Profile Trophy
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=FredericChang&column=8&theme=onedark&no-frame=true"/>
+</a>
+
+## 📝 GitHub Readme Stats
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=FredericChang&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericChang&layout=compact&langs_count=10&theme=onedark" />
+  </a>
+</div>
+
+## 🔥 GitHub Readme Streak Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FredericChang&theme=dark)](https://git.io/streak-stats)
