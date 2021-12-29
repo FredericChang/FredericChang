@@ -14,7 +14,7 @@
     <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=FredericChang&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericChang&layout=compact&langs_count=10&theme=onedark" />
+    <img height="190" hide ="C#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericChang&layout=compact&langs_count=10&theme=onedark" />
   </a>
 </div>
 
