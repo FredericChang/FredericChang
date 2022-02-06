@@ -21,7 +21,6 @@
 ## 🔥 GitHub Readme Streak Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FredericChang&theme=dark)](https://git.io/streak-stats)
-<img src="https://raw.githubusercontent.com/FredericChang/FredericChang/output/github-contribution-grid-snake.svg" />
 
 
 <!--
