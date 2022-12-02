@@ -22,7 +22,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FredericChang&theme=dark)](https://git.io/streak-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/FredericChang/FredericChang/output/github-contribution-grid-snake.svg)
 <!--
 **FredericChang/FredericChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
